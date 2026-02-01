@@ -1,5 +1,7 @@
 # mishmash io
 
+[![GitHub followers](https://img.shields.io/github/followers/mishmash-io)](https://github.com/mishmash-io) [![Bluesky posts](https://img.shields.io/bluesky/posts/mishmash.io)](https://bsky.app/profile/mishmash.io) [![GitHub Discussions](https://img.shields.io/github/discussions/mishmash-io/about?logo=github&logoColor=white)](https://github.com/orgs/mishmash-io/discussions) [![Discord](https://img.shields.io/discord/1208043287001169990?logo=discord&logoColor=white)](https://discord.gg/JqC6VMZTgJ)
+
 `mishmash io` is a distributed, schema-less database that speeds up complex algorithms such as ML and AI. [Find out more on our website.](https://mishmash.io)
 
 Here you can find code that we have released publicly:
